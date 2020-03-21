@@ -1,0 +1,17 @@
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\bin\Debug\text_to_speech.exe
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\bin\Debug\text_to_speech.pdb
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.Form1.resources
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.Properties.Resources.resources
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.exe
+c:\users\sam\documents\visual studio 2010\Projects\text_to_speech\text_to_speech\obj\x86\Debug\text_to_speech.pdb
+C:\Users\Crocodile\Desktop\官方的说话版本Text to Speech Converter Sample - C# - Visual Studio 2010\C#\text_to_speech\bin\Debug\text_to_speech.exe
+C:\Users\Crocodile\Desktop\官方的说话版本Text to Speech Converter Sample - C# - Visual Studio 2010\C#\text_to_speech\bin\Debug\text_to_speech.pdb
+C:\Users\Crocodile\Desktop\官方的说话版本Text to Speech Converter Sample - C# - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.Form1.resources
+C:\Users\Crocodile\Desktop\官方的说话版本Text to Speech Converter Sample - C# - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.Properties.Resources.resources
+C:\Users\Crocodile\Desktop\官方的说话版本Text to Speech Converter Sample - C# - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.csproj.GenerateResource.Cache
+C:\Users\Crocodile\Desktop\官方的说话版本Text to Speech Converter Sample - C# - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.exe
+C:\Users\Crocodile\Desktop\官方的说话版本Text to Speech Converter Sample - C# - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.pdb
+C:\Users\Crocodile\Desktop\官方的说话版本Text to Speech Converter Sample - C# - Visual Studio 2010\C#\text_to_speech\obj\x86\Debug\text_to_speech.csprojResolveAssemblyReference.cache
